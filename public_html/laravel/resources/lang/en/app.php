@@ -24,7 +24,7 @@ return [
 
     'auth' => [
         'login-page-title'     => 'Sign In!',
-        'login-title'          => 'Sign in to start your session',
+        'login-title'          => 'Sign in to access your account',
         'remember-me'          => 'Remember me',
         'btn-sign-in'          => 'Sign In',
         'forgot-password'      => 'I forgot my password!',
@@ -39,14 +39,14 @@ return [
             'contact-heading'    => 'Hello Master,',
             'contact-info-text'  => 'A Contact form has been filled on the website <a href=":website_url">:website_url</a>!',
             'here-are-the-infos' => 'Here are the informations:',
-            'bottom-message'     => 'Sincerely,<br>BB8',
+            'bottom-message'     => 'Sincerely,<br>',
         ],
         'password' => [
             'password-reset'    => 'Password Reset',
             'password-heading'  => 'Hello sir,',
             'password-content1' => "You asked for a password reset, and because I am kind, I'll give you one new!",
             'password-content2' => 'Here is the link to create a new password: :reset_url',
-            'bottom-message'    => 'Sincerely,<br>BB8',
+            'bottom-message'    => 'Sincerely,<br>',
         ],
     ],
 
@@ -54,7 +54,7 @@ return [
         '404'        => 'Four Oh Four!',
         '503'        => 'Be right back.',
         'formErrors' => [
-            'heading'      => '<strong>Whoops!</strong> Houston, we have a problem!',
+            'heading'      => '<strong>Whoops!</strong> We have a problem!',
             'fix-mistakes' => 'Please fix those mistakes:',
         ],
     ],
@@ -137,58 +137,58 @@ return [
             'work-experience'  => [
                 'title' => 'Work Experience',
                 1       => [
-                    'job-title' => 'Engineer @ <strong>CarvingLabs</strong>',
+                    'job-title' => 'Senior Web & Front-end Developer @ <strong>The Grace company</strong>',
                     'dates'     => 'September 2015 - Today',
                     'details'   => '<ul class="list-arrow-color no-margin">
-                                        <li>Developed Web Applications on Laravel.</li>
+                                        <li>Developed Web Applications with Laravel.</li>
                                         <li>Created and maintained Open Source packages.</li>
                                     </ul>',
                 ],
-                2       => [
-                    'job-title' => 'Google Deployment Specialist @ <strong>NRX</strong>',
-                    'dates'     => 'October 2012 - September 2015',
-                    'details'   => '<ul class="list-arrow-color no-margin">
-                                        <li>Developed Web Applications on Laravel, Symfony 2 and Zend Framework 3.</li>
-                                        <li>Developed Core Java Applications.</li>
-                                        <li>Passed the following Google certifications :
-                                            <ul class="list-arrow-color no-margin">
-                                                <li>Google Deployment Specialist (Google Search Appliance)</li>
-                                                <li>Google Apps 100</li>
-                                                <li>Google Cloud Platform 300</li>
-                                            </ul>
-                                        </li>
-                                        <li>Deployed Google Search Appliance projects for some customers.</li>
-                                        <li>Search & Development based on solutions related to Google for Work.</li>
-                                        <li>Created a dynamic library on PHP to administrate and monitor a GSA.</li>
-                                    </ul>',
-                ],
-                3       => [
-                    'job-title' => 'Developer Web & Mobile @ <strong>Lemonway</strong>',
-                    'dates'     => 'September 2011 - September 2012',
-                    'details'   => '<ul class="list-arrow-color no-margin">
-                                        <li>Developed the company\'s Website.</li>
-                                        <li>Developed the company\'s Mobile App.</li>
-                                        <li>Developed iPhone and Android applications for some customers.</li>
-                                    </ul>',
-                ],
-                4       => [
-                    'job-title' => 'Sys Admin @ <strong>Autoscout24 France</strong>',
-                    'dates'     => 'January 2010 - August 2011',
-                    'details'   => '<ul class="list-arrow-color no-margin">
-                                        <li>Management of Software Interface for some customers.</li>
-                                        <li>Handling of the Computers Listing.</li>
-                                        <li>Helpdesk customers.</li>
-                                        <li>Developed softwares in PHP to automatize some tasks.</li>
-                                    </ul>',
-                ],
-                5       => [
-                    'job-title' => 'Web Developer @ <strong>Call Assurances</strong>',
-                    'dates'     => 'September 2008 - December 2009',
-                    'details'   => '<ul class="list-arrow-color no-margin">
-                                        <li>Developed and remade the entire Websites of the Company.</li>
-                                        <li>Created some tools and technics for SEO and SEM.</li>
-                                    </ul>',
-                ],
+//                2       => [
+//                    'job-title' => 'Google Deployment Specialist @ <strong>NRX</strong>',
+//                    'dates'     => 'October 2012 - September 2015',
+//                    'details'   => '<ul class="list-arrow-color no-margin">
+//                                        <li>Developed Web Applications on Laravel, Symfony 2 and Zend Framework 3.</li>
+//                                        <li>Developed Core Java Applications.</li>
+//                                        <li>Passed the following Google certifications :
+//                                            <ul class="list-arrow-color no-margin">
+//                                                <li>Google Deployment Specialist (Google Search Appliance)</li>
+//                                                <li>Google Apps 100</li>
+//                                                <li>Google Cloud Platform 300</li>
+//                                            </ul>
+//                                        </li>
+//                                        <li>Deployed Google Search Appliance projects for some customers.</li>
+//                                        <li>Search & Development based on solutions related to Google for Work.</li>
+//                                        <li>Created a dynamic library on PHP to administrate and monitor a GSA.</li>
+//                                    </ul>',
+//                ],
+//                3       => [
+//                    'job-title' => 'Developer Web & Mobile @ <strong>Lemonway</strong>',
+//                    'dates'     => 'September 2011 - September 2012',
+//                    'details'   => '<ul class="list-arrow-color no-margin">
+//                                        <li>Developed the company\'s Website.</li>
+//                                        <li>Developed the company\'s Mobile App.</li>
+//                                        <li>Developed iPhone and Android applications for some customers.</li>
+//                                    </ul>',
+//                ],
+//                4       => [
+//                    'job-title' => 'Sys Admin @ <strong>Autoscout24 France</strong>',
+//                    'dates'     => 'January 2010 - August 2011',
+//                    'details'   => '<ul class="list-arrow-color no-margin">
+//                                        <li>Management of Software Interface for some customers.</li>
+//                                        <li>Handling of the Computers Listing.</li>
+//                                        <li>Helpdesk customers.</li>
+//                                        <li>Developed softwares in PHP to automatize some tasks.</li>
+//                                    </ul>',
+//                ],
+//                5       => [
+//                    'job-title' => 'Web Developer @ <strong>Call Assurances</strong>',
+//                    'dates'     => 'September 2008 - December 2009',
+//                    'details'   => '<ul class="list-arrow-color no-margin">
+//                                        <li>Developed and remade the entire Websites of the Company.</li>
+//                                        <li>Created some tools and technics for SEO and SEM.</li>
+//                                    </ul>',
+//                ],
             ],
             'education'        => [
                 'title' => 'Education',

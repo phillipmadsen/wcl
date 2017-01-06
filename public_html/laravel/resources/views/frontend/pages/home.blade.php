@@ -230,4 +230,4 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-@stop
+@endsection

@@ -2,15 +2,15 @@
 
 @section('meta-title')
     Tags
-@stop
+@endsection
 
 @section('page-title')
     Tags <a href="{{ route('admin.tags.create') }}" class="btn btn-sm btn-primary">Create a new Tag</a>
-@stop
+@endsection
 
 @section('breadcrumb-title')
     Tags
-@stop
+@endsection
 
 @section('content')
     <table class="table table-bordered">
@@ -37,4 +37,4 @@
         </tr>
     @endforelse
     </table>
-@stop
+@endsection

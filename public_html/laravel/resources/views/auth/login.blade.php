@@ -2,7 +2,7 @@
 
 @section('page-title')
     {{ trans('app.auth.login-page-title') }}
-@stop
+@endsection
 
 @section('content')
     <div class="login-box-body">
@@ -39,4 +39,4 @@
             <a href="{{ route('admin.auth.remind') }}">{{ trans('app.auth.forgot-password') }}</a>
         </div>
     </div>
-@stop
+@endsection

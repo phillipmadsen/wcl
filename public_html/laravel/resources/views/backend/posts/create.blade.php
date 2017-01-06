@@ -2,15 +2,15 @@
 
 @section('meta-title')
     Create a Post
-@stop
+@endsection
 
 @section('page-title')
     Create a Post
-@stop
+@endsection
 
 @section('breadcrumb-title')
     New Post
-@stop
+@endsection
 
 @section('content')
     <form role="form" action="{{ route('admin.posts.store') }}" method="POST" enctype="multipart/form-data">
@@ -44,4 +44,4 @@
         </div>
         <button type="submit" class="btn btn-rw btn-primary">Submit</button>
     </form>
-@stop
+@endsection

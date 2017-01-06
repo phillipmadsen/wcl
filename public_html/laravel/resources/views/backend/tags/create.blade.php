@@ -2,15 +2,15 @@
 
 @section('meta-title')
     Create a Tag
-@stop
+@endsection
 
 @section('page-title')
     Create a Tag
-@stop
+@endsection
 
 @section('breadcrumb-title')
     New Tag
-@stop
+@endsection
 
 @section('content')
     <form role="form" action="{{ route('admin.tags.store') }}" method="POST">
@@ -26,4 +26,4 @@
         </div>
         <button type="submit" class="btn btn-rw btn-primary">Submit</button>
     </form>
-@stop
+@endsection

@@ -2,15 +2,15 @@
 
 @section('meta-title')
     Works
-@stop
+@endsection
 
 @section('page-title')
     Works <a href="{{ route('admin.works.create') }}" class="btn btn-sm btn-primary">Create a new Work</a>
-@stop
+@endsection
 
 @section('breadcrumb-title')
     Works
-@stop
+@endsection
 
 @section('content')
     <table class="table table-bordered">
@@ -39,4 +39,4 @@
         </tr>
     @endforelse
     </table>
-@stop
+@endsection
