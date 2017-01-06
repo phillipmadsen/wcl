@@ -1,8 +1,11 @@
 $(document).ready(function() {
-    /* Summernote */
-    $('.summernote').summernote();
-    /* /Summernote */
-
+    $('.summernote').summernote({
+  height: 300,                 // set editor height
+  minHeight: null,             // set minimum height of editor
+  maxHeight: null,             // set maximum height of editor
+  focus: true                  // set focus to editable area after initializing summernote
+});
+ 
     /* Bootstrap TagsInput */
     if ($('input[name="tags"]').length > 0) {
         var tags = new Bloodhound({

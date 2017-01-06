@@ -161,6 +161,10 @@ return [
         Intervention\Image\ImageServiceProvider::class, // Image Manipulation
         Bugsnag\BugsnagLaravel\BugsnagLaravelServiceProvider::class, // BugSnag
 
+        Tsawler\Laravelfilemanager\LaravelFilemanagerServiceProvider::class,
+        Intervention\Image\ImageServiceProvider::class,
+        Collective\Html\HtmlServiceProvider::class,
+
     ],
     /*
     |--------------------------------------------------------------------------
@@ -209,6 +213,10 @@ return [
         // Custom Aliases
         'Image'     => Intervention\Image\Facades\Image::class, // Image Manipulation
         'Bugsnag'   => Bugsnag\BugsnagLaravel\BugsnagFacade::class,
+
+        'Image'     => Intervention\Image\Facades\Image::class,
+        'Form' => Collective\Html\FormFacade::class,
+        'Html' => Collective\Html\HtmlFacade::class,
 
     ],
 
