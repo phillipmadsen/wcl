@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade9630f-5e21-4838-94a4-643cd9087fa4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/lang/en/app.php" afterPath="$PROJECT_DIR$/laravel/resources/lang/en/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/auth/login.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/auth/password.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/auth/password.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/auth/profile.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/auth/profile.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/auth/reset.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/auth/reset.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/customers/create.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/customers/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/customers/edit.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/customers/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/customers/index.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/customers/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/customers/show.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/customers/show.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/dashboard/index.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/dashboard/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/posts/create.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/posts/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/posts/edit.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/posts/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/posts/index.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/posts/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/posts/show.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/posts/show.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/settings/edit.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/settings/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/tags/create.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/tags/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/tags/edit.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/tags/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/tags/index.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/tags/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/tags/show.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/tags/show.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/users/create.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/users/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/users/edit.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/users/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/users/index.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/users/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/users/show.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/users/show.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/works/create.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/works/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/works/edit.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/works/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/works/index.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/works/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/backend/works/show.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/backend/works/show.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/blog/index.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/blog/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/blog/show.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/blog/show.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/blog/tag.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/blog/tag.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/contact.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/contact.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/home.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/home.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/resume.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/resume.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/works/index.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/works/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/works/show.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/frontend/pages/works/show.blade.php" />
-    </list>
+    <list default="true" id="ade9630f-5e21-4838-94a4-643cd9087fa4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/laravel/resources/views/auth/reset.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -580,12 +543,12 @@
       <workItem from="1482899955260" duration="598000" />
       <workItem from="1482979318361" duration="5000" />
       <workItem from="1483682993423" duration="1728000" />
-      <workItem from="1483684733007" duration="1350000" />
+      <workItem from="1483684733007" duration="1398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7009000" />
+    <option name="totallyTimeSpent" value="7057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="62" width="1936" height="1026" extended-state="6" />
@@ -766,7 +729,7 @@
     <entry file="file://$PROJECT_DIR$/laravel/resources/views/auth/reset.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
