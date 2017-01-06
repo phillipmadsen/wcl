@@ -2,15 +2,15 @@
 
 @section('meta-title')
     Editing Post "{{ $post->title }}"
-@stop
+@endsection
 
 @section('page-title')
     Editing Post "{{ $post->title }}"
-@stop
+@endsection
 
 @section('breadcrumb-title')
     Edit Post
-@stop
+@endsection
 
 @section('content')
     <form role="form" action="{{ route('admin.posts.update', $post->id) }}" method="POST" enctype="multipart/form-data">
@@ -50,4 +50,4 @@
         </div>
         <button type="submit" class="btn btn-rw btn-primary">Submit</button>
     </form>
-@stop
+@endsection

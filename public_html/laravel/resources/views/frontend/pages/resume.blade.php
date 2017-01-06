@@ -8,7 +8,7 @@
             <div class="heading no-margin-bottom pt15">
                 <h2>{{ trans('app.frontend.resume.work-experience.title') }}</h2>
             </div>
-        {{--     <ul class="timeline no-margin">
+             <ul class="timeline no-margin">
                 <li>
                     <div class="timeline-panel">
                         <div class="heading">
@@ -65,7 +65,7 @@
                     </div>
                 </li>
             </ul>
- --}}
+
             <div class="heading no-margin-bottom pt15">
                 <h2>{{ trans('app.frontend.resume.education.title') }}</h2>
             </div>
@@ -145,4 +145,4 @@
             </div>
         </div>
     </section>
-@stop
+@endsection

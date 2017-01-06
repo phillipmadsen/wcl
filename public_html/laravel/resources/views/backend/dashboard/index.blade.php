@@ -2,15 +2,15 @@
 
 @section('meta-title')
     Dashboard
-@stop
+@endsection
 
 @section('page-title')
     Dashboard
-@stop
+@endsection
 
 @section('breadcrumb-title')
     Dashboard
-@stop
+@endsection
 
 @section('content')
     <div class="row">
@@ -63,4 +63,4 @@
             </div>
         </div>
     </div>
-@stop
+@endsection

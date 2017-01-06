@@ -2,15 +2,15 @@
 
 @section('meta-title')
     Create a Work
-@stop
+@endsection
 
 @section('page-title')
     Create a Work
-@stop
+@endsection
 
 @section('breadcrumb-title')
     New Work
-@stop
+@endsection
 
 @section('content')
     <form role="form" action="{{ route('admin.works.store') }}" method="POST" enctype="multipart/form-data">
@@ -44,4 +44,4 @@
         </div>
         <button type="submit" class="btn btn-rw btn-primary">Submit</button>
     </form>
-@stop
+@endsection
