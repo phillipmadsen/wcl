@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade9630f-5e21-4838-94a4-643cd9087fa4" name="Default" comment="" />
+    <list default="true" id="ade9630f-5e21-4838-94a4-643cd9087fa4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/resources/views/layouts/backend.blade.php" afterPath="$PROJECT_DIR$/laravel/resources/views/layouts/backend.blade.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +21,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reset.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reset.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/laravel/resources/views/auth/reset.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
               <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frontend.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/resources/views/layouts/frontend.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backend.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laravel/resources/views/layouts/backend.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="691">
+              <caret line="164" column="0" lean-forward="false" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -56,6 +78,7 @@
         <option value="$PROJECT_DIR$/laravel/resources/views/auth/password.blade.php" />
         <option value="$PROJECT_DIR$/laravel/resources/views/auth/profile.blade.php" />
         <option value="$PROJECT_DIR$/laravel/resources/views/auth/reset.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/resources/views/layouts/backend.blade.php" />
       </list>
     </option>
   </component>
@@ -543,12 +566,12 @@
       <workItem from="1482899955260" duration="598000" />
       <workItem from="1482979318361" duration="5000" />
       <workItem from="1483682993423" duration="1728000" />
-      <workItem from="1483684733007" duration="1398000" />
+      <workItem from="1483684733007" duration="1974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7057000" />
+    <option name="totallyTimeSpent" value="7633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="62" width="1936" height="1026" extended-state="6" />
@@ -730,6 +753,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/resources/views/layouts/frontend.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/resources/views/layouts/backend.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="164" column="0" lean-forward="false" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="52" />
           <folding />
         </state>
       </provider>
