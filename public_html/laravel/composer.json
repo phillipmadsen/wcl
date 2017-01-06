@@ -1,5 +1,5 @@
 {
-    "name": "tyloo/tyloo",
+    "name": "phillipmadsen/wcl",
     "description": "Home made PHP CMS Framework based on Laravel and some magic. See demo : http://www.tyloo.fr",
     "keywords": [
         "laravel",
@@ -8,17 +8,16 @@
         "blog",
         "portfolio"
     ],
-    "homepage": "https://github.com/tyloo/tyloo",
+    "homepage": "https://github.com/phillipmadsen/wcl",
     "license": "MIT",
     "type": "project",
-    "authors": [
-        {
-            "name": "Julien 'Tyloo' Bonvarlet",
-            "email": "jbonva@gmail.com",
-            "homepage": "http://www.tyloo.fr",
-            "role": "Developer"
-        }
-    ],
+      "authors": [{
+        "name": "phillip madsen",
+        "email": "wecodelaravel@gmail.com",
+        "homepage": "http://www.wecodelaravel.com",
+        "role": "Developer"
+    }],
+  
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
