@@ -4,7 +4,13 @@
     <meta charset="UTF-8">
     <title>@yield('meta-title', 'Page Title') - WeCodeLaravel Backend</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
     <link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.css" rel="stylesheet">
+
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.js"></script>
+
+    
     <script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.js"></script>
     {{--<link href="/assets/js/summernote.css" rel="stylesheet">--}}
     <link href="/assets/css/backend.css" rel="stylesheet">
@@ -160,8 +166,7 @@
         <strong>Copyright &copy; 1996-{{ date('Y') }} <a href="http://www.wecodelaravel.com">WeCodeLaravel.com</a>.</strong> All rights reserved.
     </footer>
 </div>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script> 
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.js"></script> 
+
 {{--<script src="/assets/js/summernote.js"></script>--}}
 <script src="/assets/js/backend.js"></script>
 </body>
