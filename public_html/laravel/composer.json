@@ -1,6 +1,6 @@
 {
     "name": "phillipmadsen/wcl",
-    "description": "Home made PHP CMS Framework based on Laravel and some magic. See demo : http://www.tyloo.fr",
+    "description": "Home made PHP CMS Framework created using Laravel . See demo : http://www.wecodelaravel.com",
     "keywords": [
         "laravel",
         "framework",
@@ -71,7 +71,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.4.x-dev"
+            "dev-master": "1.0.0-beta.1"
         }
     }
 }
