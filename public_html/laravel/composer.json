@@ -1,0 +1,78 @@
+{
+    "name": "tyloo/tyloo",
+    "description": "Home made PHP CMS Framework based on Laravel and some magic. See demo : http://www.tyloo.fr",
+    "keywords": [
+        "laravel",
+        "framework",
+        "php",
+        "blog",
+        "portfolio"
+    ],
+    "homepage": "https://github.com/tyloo/tyloo",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Julien 'Tyloo' Bonvarlet",
+            "email": "jbonva@gmail.com",
+            "homepage": "http://www.tyloo.fr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.2.*",
+        "intervention/image": "~2.3",
+        "samdark/sitemap": "^2.0",
+        "predis/predis": "^1.0",
+        "guzzlehttp/guzzle": "^6.1",
+        "fzaninotto/faker": "~1.5",
+        "prettus/l5-repository": "^2.1",
+        "patrickkunka/mixitup": "^2.1",
+        "bugsnag/bugsnag-laravel": "1.*"
+    },
+    "require-dev": {
+        "mockery/mockery": "~0.9",
+        "symfony/dom-crawler": "~3.0",
+        "symfony/css-selector": "~3.0",
+        "phpunit/phpunit": "~5.0",
+        "codeclimate/php-test-reporter": "^0.3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "database"
+        ],
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "post-root-package-install": [
+            "php -r \"copy('.env.example', '.env');\""
+        ],
+            "post-create-project-cmd": [
+            "php artisan key:generate"
+        ],
+            "post-install-cmd": [
+            "Illuminate\\Foundation\\ComposerScripts::postInstall",
+            "php artisan optimize"
+        ],
+            "post-update-cmd": [
+            "Illuminate\\Foundation\\ComposerScripts::postUpdate",
+            "php artisan optimize"
+        ]
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.4.x-dev"
+        }
+    }
+}

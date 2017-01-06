@@ -1,0 +1,98 @@
+[03-Nov-2016 07:43:05 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[03-Nov-2016 07:43:05 UTC] PHP Stack trace:
+[03-Nov-2016 07:43:05 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[03-Nov-2016 07:43:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[03-Nov-2016 07:43:05 UTC] PHP Stack trace:
+[03-Nov-2016 07:43:05 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[03-Nov-2016 11:15:59 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[03-Nov-2016 11:15:59 UTC] PHP Stack trace:
+[03-Nov-2016 11:15:59 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[03-Nov-2016 11:15:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[03-Nov-2016 11:15:59 UTC] PHP Stack trace:
+[03-Nov-2016 11:15:59 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[03-Nov-2016 16:12:07 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[03-Nov-2016 16:12:08 UTC] PHP Stack trace:
+[03-Nov-2016 16:12:08 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[03-Nov-2016 16:12:08 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[03-Nov-2016 16:12:08 UTC] PHP Stack trace:
+[03-Nov-2016 16:12:08 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 01:49:31 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 01:49:31 UTC] PHP Stack trace:
+[04-Nov-2016 01:49:31 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 01:49:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 01:49:31 UTC] PHP Stack trace:
+[04-Nov-2016 01:49:31 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 01:50:38 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 01:50:38 UTC] PHP Stack trace:
+[04-Nov-2016 01:50:38 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 01:50:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 01:50:38 UTC] PHP Stack trace:
+[04-Nov-2016 01:50:38 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 04:33:33 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 04:33:33 UTC] PHP Stack trace:
+[04-Nov-2016 04:33:33 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 04:33:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 04:33:33 UTC] PHP Stack trace:
+[04-Nov-2016 04:33:33 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 18:07:04 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 18:07:04 UTC] PHP Stack trace:
+[04-Nov-2016 18:07:04 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 18:07:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 18:07:04 UTC] PHP Stack trace:
+[04-Nov-2016 18:07:04 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 18:48:12 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 18:48:12 UTC] PHP Stack trace:
+[04-Nov-2016 18:48:12 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[04-Nov-2016 18:48:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[04-Nov-2016 18:48:12 UTC] PHP Stack trace:
+[04-Nov-2016 18:48:12 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 17:31:36 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 17:31:36 UTC] PHP Stack trace:
+[05-Nov-2016 17:31:36 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 17:31:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 17:31:36 UTC] PHP Stack trace:
+[05-Nov-2016 17:31:36 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 17:33:16 UTC] PHP Warning:  require(/home/madsynn/public_html/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 17:33:16 UTC] PHP Stack trace:
+[05-Nov-2016 17:33:16 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 17:33:16 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 17:33:16 UTC] PHP Stack trace:
+[05-Nov-2016 17:33:16 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 17:34:59 UTC] PHP Warning:  require(/home/madsynn/public_html/laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 17:34:59 UTC] PHP Stack trace:
+[05-Nov-2016 17:34:59 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 17:34:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/laravel/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 17:34:59 UTC] PHP Stack trace:
+[05-Nov-2016 17:34:59 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 17:35:05 UTC] PHP Warning:  require(/home/madsynn/public_html/laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 17:35:05 UTC] PHP Stack trace:
+[05-Nov-2016 17:35:05 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 17:35:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/laravel/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 17:35:05 UTC] PHP Stack trace:
+[05-Nov-2016 17:35:05 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 18:04:19 UTC] PHP Warning:  require(/home/madsynn/public_html/laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 18:04:19 UTC] PHP Stack trace:
+[05-Nov-2016 18:04:19 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 18:04:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/laravel/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 18:04:19 UTC] PHP Stack trace:
+[05-Nov-2016 18:04:19 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 22:05:45 UTC] PHP Warning:  require(/home/madsynn/public_html/laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 22:05:45 UTC] PHP Stack trace:
+[05-Nov-2016 22:05:45 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 22:05:45 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/laravel/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 22:05:45 UTC] PHP Stack trace:
+[05-Nov-2016 22:05:45 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 22:06:04 UTC] PHP Warning:  require(/home/madsynn/public_html/laravel/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 22:06:04 UTC] PHP Stack trace:
+[05-Nov-2016 22:06:04 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 22:06:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/madsynn/public_html/laravel/bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/madsynn/public_html/index.php on line 23
+[05-Nov-2016 22:06:04 UTC] PHP Stack trace:
+[05-Nov-2016 22:06:04 UTC] PHP   1. {main}() /home/madsynn/public_html/index.php:0
+[05-Nov-2016 22:28:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Bugsnag Error: Invalid API key' in /home/madsynn/public_html/laravel/vendor/bugsnag/bugsnag/src/Bugsnag/Client.php:19
+Stack trace:
+#0 /home/madsynn/public_html/laravel/vendor/bugsnag/bugsnag-laravel/src/Bugsnag/BugsnagLaravel/BugsnagLaravelServiceProvider.php(61): Bugsnag_Client->__construct(NULL)
+#1 /home/madsynn/public_html/laravel/bootstrap/cache/compiled.php(1339): Bugsnag\BugsnagLaravel\BugsnagLaravelServiceProvider->Bugsnag\BugsnagLaravel\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/madsynn/public_html/laravel/bootstrap/cache/compiled.php(1295): Illuminate\Container\Container->build(Object(Closure), Array)
+#3 /home/madsynn/public_html/laravel/bootstrap/cache/compiled.php(1857): Illuminate\Container\Container->make('bugsnag', Array)
+#4 /home/madsynn/public_html/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(105): Illuminate\Foundation\Application->make('bugsnag', Array)
+#5 /home/madsynn/public_html/laravel/vendor in /home/madsynn/public_html/laravel/vendor/bugsnag/bugsnag/src/Bugsnag/Client.php on line 19

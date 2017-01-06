@@ -1,0 +1,9 @@
+/build
+/node_modules
+/vendor
+/public/sitemap.xml
+/public/storage
+/public/assets/css/backend.css.map
+/public/assets/css/frontend.css.map
+Envoy.blade.php
+.env
